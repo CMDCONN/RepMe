@@ -58,6 +58,6 @@ Follow these steps to get RepMe up and running:
 
 5. **Build and run the application**
   Open the terminal in VS Code and run:
-  ```bash
-  dotnet build
-  dotnet run
+    ```bash
+    dotnet build
+    dotnet run
